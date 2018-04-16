@@ -12,3 +12,5 @@ Creating a  new branch is quick and simple.
 >>>>>>> feature1
 
 zhis is a new br dev
+
+zhis is  101 bug
