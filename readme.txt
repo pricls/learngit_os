@@ -1,6 +1,8 @@
-cha kan : git branch 
-chuang jian :git branch <name>
-qie huan : git checkout <neme>
-chuang qie : git checkout -b <name>
-he bin : git merge <name>
-shan chu : git branch -d <name>
+查 看 : git branch 
+创 建 : git branch <name>
+切 换 : git checkout <neme>
+创 切 : git checkout -b <name>
+合 并 : git merge <name>
+删 除 : git branch -d <name>
+
+
