@@ -1,4 +1,6 @@
-git is a version control system
-git is a free software ditributed under the GPL
-git xiugai tijiao
-git xin de fen zhi wei yu dev
+cha kan : git branch 
+chuang jian :git branch <name>
+qie huan : git checkout <neme>
+chuang qie : git checkout -b <name>
+he bin : git merge <name>
+shan chu : git branch -d <name>
