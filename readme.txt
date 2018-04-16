@@ -5,4 +5,8 @@
 合 并 : git merge <name>
 删 除 : git branch -d <name>
 
+<<<<<<< HEAD
 Creating a new branch is quick & simple.
+=======
+Creating a  new branch is quick and simple.
+>>>>>>> feature1
